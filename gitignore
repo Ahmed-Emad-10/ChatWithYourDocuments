@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+uploads/
+qdrant_storage/
+rag/
+*.ipynb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
